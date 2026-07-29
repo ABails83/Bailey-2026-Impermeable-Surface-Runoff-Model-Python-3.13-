@@ -1,0 +1,4 @@
+subcatchment_id,area_ha,runoff_coeff,slope,alpha,beta,rain_gauge,FM Ref,Comments
+A,0.1,1,0.04,0.01,-0.5,RG2,FMXXX,
+B,0.5,1,0.04,0.01,-0.5,RG4,FMXXX,
+C,0.192,1,0.04,0.01,-0.5,RG6,FMXXX,

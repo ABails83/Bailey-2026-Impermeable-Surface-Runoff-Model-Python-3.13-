@@ -1,0 +1,7 @@
+subcatchment_id,rain_gauge,PAVED_area_ha,PAVED_runoff_coeff,PAVED_slope,PAVED_alpha,PAVED_beta,ROOF_area_ha,ROOF_runoff_coeff,ROOF_slope,ROOF_alpha,ROOF_beta,ADDITIONAL_area_ha,ADDITIONAL_runoff_coeff,ADDITIONAL_slope,ADDITIONAL_alpha,ADDITIONAL_beta,FM Ref,Comments
+A,RG2,0.033,1,0.04,0.004,-0.4,0.028,1,0.5,0.004,-0.4,0,1,0.04,0.01,-0.5,fmxxx,
+B,RG2,0.02,1,0.04,0.004,-0.4,0.027,1,0.5,0.004,-0.4,0,1,0.04,0.01,-0.5,fmxxx,
+C,RG2,0.143,1,0.04,0.004,-0.4,0.049,1,0.5,0.004,-0.4,0,1,0.04,0.01,-0.5,fmxxx,
+D,RG2,0.076,1,0.04,0.004,-0.4,0.072,1,0.5,0.004,-0.4,0,1,0.04,0.01,-0.5,fmxxx,
+E,RG2,0.12,1,0.04,0.004,-0.4,0.119,1,0.5,0.004,-0.4,0,1,0.04,0.01,-0.5,fmxxx,
+F,RG2,0.066,1,0.04,0.004,-0.4,0.021,1,0.5,0.004,-0.4,0,1,0.04,0.01,-0.5,fmxxx,
